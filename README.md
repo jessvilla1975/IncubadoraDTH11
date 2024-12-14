@@ -48,7 +48,7 @@ Este proyecto implementa una incubadora automatizada que utiliza un sistema de c
 ![Circuito arduino](https://github.com/user-attachments/assets/e82724d3-d74c-4231-bb2c-2f9f205fd350)
 
 ### Circuito conexiones bombillo, dimmer y relé
-![Circuito arduino](https://github.com/user-attachments/assets/58a25096-2e79-423c-be5e-d7b7970ffea7)
+![circuito fuente de calor con dimmer](https://github.com/user-attachments/assets/73e89be7-1136-4ced-8f2a-a4aef24652cb)
 
 
 ---
